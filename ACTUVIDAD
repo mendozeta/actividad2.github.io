@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es" class="no-js">
+<head>
+
+	<meta charset="UTF-8">
+	<meta content="Jhonny Alexander Mendoza" name="author"/>
+	<meta content="Fundacion" name="description"/>
+	<meta content="etiqueta1, etiqueta2, etiqueta3" name="keywords"/>
+
+	<title>prueba html5</title>
+	<link rel="stylesheet" href="css/normalize.css">
+	<link href='https://fonts.googleapis.com/css?family=Oswald|Slabo+27px' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="css/style.css">
+
+	
+
+</head>
+
+<body>
+
+	<DIV id="contenidos">
+	<header>
+	<h1>fundacion patitas</h1>
+	<h2>Curso Diseño de sitios web</h2>
+	<header>
+
+<nav>
+<ul>
+<li><a href="www.google.com">Google</a></li>
+<li><a href="www.unad.edu.co">Universidad UNAD</a></li>
+<li><a href="www.enter.com">enter</a></li>
+</ul>
+</nav>
+
+<section>
+<article>
+<h2>compuatador portatil</h2>
+<figure>
+<img src="/img/pc.jpg" alt="computador portatil">	
+<figcaption>
+<span>
+imagen computador<a href="http://www.hp.com" class="menu">computador portatil</a>	
+</span>	
+
+</figcaption>
+</figure>	
+
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nibh lorem, condimentum vel arcu nec, mattis rutrum nibh. Morbi aliquam non odio. curabitur tincidunt, neque at mattis pellentesque, purus nisi luctus metus, sit amet semper libero enim a erat. Proin eleifend ultricies aliquet. Vivamus interdum anim rutrum tellus tincidunt, quis consectetur lorem finibus.
+<p>
+
+</article>
+</section>
+
+<aside>
+<ul>
+<li><a href="www.google.com">Google</a></li>
+<li><a href="www.unad.edu.co">Universidad UNAD</a></li>
+<li><a href="www.enter.com">enter</a></li>
+</ul>
+</aside>
+
+<footer><h3>copyright Todos los Derechos Reservados<h3/></footer>
+
+
+</DIV>
+
+
+
+
+	
+</body>  
+
+    <script src="js/modernizr.js"></script>
+	<script src="js/prefixfree.min.js"></script>
+	<script src="js/jquery-2.1.1.js" =></script>
+
+</html>
